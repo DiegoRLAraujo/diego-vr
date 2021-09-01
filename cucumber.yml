@@ -1,0 +1,2 @@
+# Parâmetro de execução para geração de evidência
+report: --format html --out=report/report.html
